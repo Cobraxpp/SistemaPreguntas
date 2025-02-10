@@ -1,0 +1,15 @@
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\App3.csproj.AssemblyReference.cache
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\App.g.cs
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\App3_MarkupCompile.cache
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\bin\Debug\App3.exe.config
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\bin\Debug\App3.exe
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\bin\Debug\App3.pdb
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\MainWindow.g.cs
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\App3_MarkupCompile.lref
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\MainWindow.baml
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\App3.g.resources
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\App3.Properties.Resources.resources
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\App3.csproj.GenerateResource.cache
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\App3.csproj.CoreCompileInputs.cache
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\App3.exe
+C:\Users\OscarMartinezCerredo\source\repos\App3\App3\obj\Debug\App3.pdb
